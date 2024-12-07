@@ -1,0 +1,123 @@
+{
+    "trending_locations": [
+      {
+        "id": "1",
+        "title": "Taj Mahal, Agra",
+        "short_description": "A stunning white marble mausoleum in Agra, symbolizing eternal love and Mughal architectural splendor, built by Shah Jahan.",
+        "long_description": "The Taj Mahal, located in Agra, Uttar Pradesh, is a masterpiece of Mughal architecture and one of the Seven Wonders of the World. Constructed in the 17th century by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the Taj Mahal is a symbol of eternal love and devotion. This UNESCO World Heritage Site is built entirely of white marble, adorned with intricate carvings, precious gemstones, and stunning calligraphy. The mausoleum's symmetrical gardens, reflecting pools, and towering minarets enhance its breathtaking beauty. Visitors are captivated by the changing hues of the marble under different light conditions, particularly during sunrise and sunset. The Taj Mahal's story, coupled with its architectural brilliance, makes it a must-visit destination for anyone seeking to explore India\u2019s rich heritage and timeless romance.",
+        "imageUrl": "https://i.imgur.com/uPcFDtU.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Cenotaphs of Mumtaz Mahal and Shah Jahan",
+            "Intricate marble screens",
+            "Pietra dura inlay work",
+            "Calligraphic inscriptions from the Quran",
+            "Central dome with acoustic properties"
+          ],
+          "Outside": [
+            "Charbagh Gardens",
+            "Reflecting pool",
+            "Mosque on the west",
+            "Guest house on the east",
+            "Yamuna River"
+          ]
+        }
+      },
+      {
+        "id": "2",
+        "title": "Victoria Memorial, Kolkata",
+        "short_description": "The Victoria Memorial in Kolkata is a grand marble structure commemorating Queen Victoria, blending British and Mughal architectural styles.",
+        "long_description": "The Victoria Memorial in Kolkata is an architectural marvel built to honor Queen Victoria\u2019s legacy. This majestic white marble structure, inaugurated in 1921, seamlessly blends Mughal and British architectural styles. Surrounded by sprawling gardens and water bodies, the monument houses a museum showcasing historical artifacts, paintings, and manuscripts from the colonial era. The central dome is crowned by the Angel of Victory, a symbolic representation of triumph. Inside, galleries feature exhibits on India's history, the life of Queen Victoria, and the British Empire\u2019s impact on the Indian subcontinent. The exterior is equally captivating, with intricately carved statues and a tranquil environment. Illuminated in the evening, the Victoria Memorial transforms into a breathtaking spectacle, making it a favorite destination for history enthusiasts and casual visitors alike.",
+        "imageUrl": "https://i.imgur.com/Qc0aKY8.jpg",
+        "imageUrl360": "https://i.imgur.com/I9UzArf.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Museum Galleries",
+            "Oil paintings and lithographs",
+            "Marble statue of Queen Victoria",
+            "Royal Gallery with historical paintings",
+            "Stained glass windows"
+          ],
+          "Outside": [
+            "Angel of Victory statue",
+            "Gardens with fountains and pathways",
+            "Reflecting pools",
+            "Statues of British figures"
+          ]
+        }
+      },
+      {
+        "id": "3",
+        "title": "Mysore Palace, Mysuru",
+        "short_description": "A majestic palace in Mysuru showcasing Indo-Saracenic architecture, royal heritage, and dazzling illumination during festivals.",
+        "long_description": "The Mysore Palace, located in Mysuru, Karnataka, is one of India's most magnificent royal residences. Built in the Indo-Saracenic style with influences from Hindu, Mughal, Rajput, and Gothic architectural traditions, the palace is a testament to the opulence of the Wodeyar dynasty. Its stunning façade of domes, turrets, arches, and colonnades is complemented by richly adorned interiors featuring stained glass windows, intricate wood carvings, and vibrant frescoes. The palace comes alive during the annual Dasara festival when it is illuminated with over 100,000 lights, creating a magical ambiance. Key attractions include the Durbar Hall, the royal throne, and an impressive collection of artifacts, paintings, and royal costumes. The Mysore Palace is surrounded by lush gardens and is an iconic landmark reflecting the grandeur of South Indian royalty.",
+        "imageUrl": "https://i.imgur.com/uPcFDtU.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Durbar Hall",
+            "Royal throne",
+            "Stained glass windows",
+            "Intricate wood carvings",
+            "Private royal chambers"
+          ],
+          "Outside": [
+            "Illuminated palace façade",
+            "Sculpted gardens",
+            "Horse-drawn carriages",
+            "Temples within the palace complex",
+            "Bronze tiger statues"
+          ]
+        }
+      },
+      {
+        "id": "4",
+        "title": "Golden Temple, Amritsar",
+        "short_description": "The Golden Temple is a stunning spiritual sanctuary in Amritsar, known for its golden dome, serene waters, and vibrant Sikh traditions.",
+        "long_description": "The Golden Temple, or Harmandir Sahib, located in Amritsar, Punjab, is the holiest shrine of Sikhism and a symbol of spiritual peace and harmony. Its gold-plated exterior and marble base reflect beautifully in the surrounding Amrit Sarovar (holy pool), creating a mesmerizing sight. Built in the 16th century by Guru Arjan Dev, the temple welcomes visitors of all faiths and backgrounds. The sanctum houses the Guru Granth Sahib, the sacred scripture of Sikhism. Visitors can partake in the Langar, a community kitchen serving free meals to thousands daily, showcasing the Sikh values of equality and service. The temple is particularly enchanting at night when its golden dome glows under the lights. The Golden Temple's serene atmosphere, spiritual significance, and architectural beauty make it a must-visit cultural destination.",
+        "imageUrl": "https://i.imgur.com/uPcFDtU.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Guru Granth Sahib",
+            "Golden sanctum",
+            "Ornate marble inlay work",
+            "Holy Sikh relics",
+            "Ceremonial palkis (palanquins)"
+          ],
+          "Outside": [
+            "Amrit Sarovar (holy pool)",
+            "Golden dome",
+            "Langar Hall",
+            "Clock Tower entrance",
+            "Carved marble causeway"
+          ]
+        }
+      },
+      {
+        "id": "5",
+        "title": "Charminar, Hyderabad",
+        "short_description": "A historic monument and mosque in Hyderabad, Charminar is a symbol of the city, known for its four minarets and bustling surroundings.",
+        "long_description": "The Charminar, located in the heart of Hyderabad, Telangana, is a stunning example of Indo-Islamic architecture with Persian influences. Built in 1591 by Sultan Muhammad Quli Qutb Shah to commemorate the founding of Hyderabad, it is a square structure with four grand arches facing the cardinal directions and four intricately designed minarets rising at each corner. The Charminar serves as both a mosque and a historical monument, with the upper floor housing a prayer space. The surrounding area, particularly the Laad Bazaar, is vibrant with shops selling pearls, bangles, and traditional crafts. The Charminar is particularly beautiful when illuminated at night, making it a must-visit for history enthusiasts and photographers. It stands as an enduring symbol of Hyderabad’s rich cultural heritage.",
+        "imageUrl": "https://i.imgur.com/uPcFDtU.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Prayer hall",
+            "Viewpoints from the minarets",
+            "Intricate stucco decorations",
+            "Persian inscriptions",
+            "Central domed ceiling"
+          ],
+          "Outside": [
+            "Laad Bazaar",
+            "Clock Tower façade",
+            "Surrounding arches",
+            "Night illumination",
+            "Adjacent Mecca Masjid"
+          ]
+        }
+      }
+    ]
+  }

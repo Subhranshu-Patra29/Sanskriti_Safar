@@ -1,0 +1,24 @@
+<!-- res/layout/activity_image_detail.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/light_light_blue"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/captured_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:contentDescription="This image is captured by user." />
+
+    <!-- TextView to show details about the image -->
+    <TextView
+        android:id="@+id/image_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Details about the image will be displayed here."
+        android:textSize="18sp" />
+</LinearLayout>

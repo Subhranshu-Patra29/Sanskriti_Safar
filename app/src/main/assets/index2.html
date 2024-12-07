@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elegant 360 Video Player</title>
+    <!-- Video.js Styles -->
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet">
+    <!-- Custom Styles -->
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #000000, #1a1a1a);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        #video-container {
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+            border-radius: 10px;
+            overflow: hidden;
+            max-width: 90%;
+            width: 400px;
+            cursor:grab;
+        }
+
+        .video-js {
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="video-container">
+        <video id="my-video" class="video-js vjs-default-skin" controls preload="auto" width="800" height="400">
+            <source src="https://drive.google.com/file/d/11gaE-IDe_o0pYRWskmQLh4DnQ7DYAlLo/view?usp=sharing" type="video/mp4">
+        </video>
+    </div>
+
+    <!-- Video.js and VR Plugin Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/video.js@7.20.3/dist/video.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/videojs-contrib-hls@5.16.0/dist/videojs-contrib-hls.min.js"></script>
+    <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+    <script src="https://unpkg.com/videojs-vr/dist/videojs-vr.min.js"></script>
+    <script>
+        // Initialize the Video.js player with VR plugin
+        const player = videojs('my-video', {
+            plugins: {
+                vr: {
+                    projection: '360' // 360-degree mode
+                }
+            }
+        });
+        player.src({
+    type: 'application/x-mpegURL', // HLS stream type
+    src: 'https://drive.google.com/file/d/11gaE-IDe_o0pYRWskmQLh4DnQ7DYAlLo/view?usp=sharing'  // Replace with your HLS URL
+});
+    </script>
+    <script>
+        // Function to change the video source dynamically
+        function loadVideo(videoUrl) {
+            const videoPlayer = document.querySelector('#my-video_html5_api'); // Access Video.js player
+            if (videoPlayer) {
+                const player = videojs('my-video'); // Get Video.js player instance
+                player.src({ src: videoUrl, type: 'video/mp4' });
+                player.play();
+            }
+        }
+    </script>    
+</body>
+</html>

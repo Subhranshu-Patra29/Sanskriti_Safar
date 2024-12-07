@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="386dp"
+        android:layout_height="542dp"
+        android:background="@drawable/orange_gradient"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/intro_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/intro_pic_desc"
+            app:srcCompat="@drawable/pic1"
+            tools:ignore="ImageContrastCheck" />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/bottom_white_pic"
+        android:contentDescription="@string/bottom_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/bottom_white" />
+
+    <TextView
+        android:id="@+id/intro_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/welcome_text"
+        android:textColor="@color/blue"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/frameLayout"
+        app:layout_constraintTop_toBottomOf="@+id/frameLayout" />
+
+    <TextView
+        android:id="@+id/description_text"
+        android:layout_width="298dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="22dp"
+        android:text="@string/app_description"
+        android:textColor="@color/blue"
+        android:textSize="19sp"
+        app:layout_constraintStart_toStartOf="@+id/intro_text"
+        app:layout_constraintTop_toBottomOf="@+id/intro_text"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:id="@+id/get_started_button"
+        android:layout_width="175dp"
+        android:layout_height="65dp"
+        android:background="@drawable/background_button_intro"
+        android:gravity="center"
+        android:text="@string/get_started_btn"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="TextSizeCheck"
+        android:onClick="openLoginPage"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,187 @@
+{
+    "trending_locations": [
+      {
+        "id": "6",
+        "title": "Qutub Minar, Delhi",
+        "short_description": "A towering 12th-century sandstone minaret in Delhi, showcasing Indo-Islamic artistry and inscribed with intricate Quranic verses.",
+        "long_description": "The Qutub Minar in Delhi stands as a remarkable example of Indo-Islamic architecture, soaring to a height of 73 meters. This iconic sandstone minaret was commissioned in 1193 by Qutb-ud-din Aibak, marking the beginning of Muslim rule in India. Its five tapering stories are adorned with intricate carvings and Quranic inscriptions, reflecting the artistic and spiritual depth of its creators. The surrounding Qutub Complex features the Quwwat-ul-Islam Mosque, the Iron Pillar, and Alai Minar, each with its own historical significance. The intricate detailing on the walls and the harmonious blend of Persian, Islamic, and Indian craftsmanship make the Qutub Minar a UNESCO World Heritage Site. Its historical importance and aesthetic grandeur attract visitors worldwide, offering a glimpse into the cultural evolution of India during the 12th century.",
+        "imageUrl": "https://i.imgur.com/aWuc1fG.jpg",
+        "imageUrl360": "https://i.imgur.com/SJRrkJe.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Carvings of Quranic verses",
+            "Intricate balconies",
+            "Quwwat-ul-Islam Mosque",
+            "Iron Pillar of Delhi"
+          ],
+          "Outside": [
+            "Tomb of Iltutmish",
+            "Alai Minar"
+          ]
+        }
+      },
+      {
+        "id": "7",
+        "title": "Hampi, Karnataka",
+        "short_description": "Ancient Vijayanagara Empire ruins in Karnataka, featuring breathtaking temples, stone chariots, and rich historical significance.",
+        "long_description": "Hampi, a UNESCO World Heritage Site in Karnataka, is an open-air museum of the ancient Vijayanagara Empire. This historical site boasts over 1,600 ruins, including temples, palaces, and market streets, spread across a surreal landscape of giant granite boulders and lush green fields. Key attractions include the iconic Virupaksha Temple, dedicated to Lord Shiva, and the Stone Chariot at the Vittala Temple complex, a masterpiece of Dravidian architecture. Hampi's ancient bazaars, monolithic sculptures, and royal enclosures speak of a bygone era of opulence and cultural zenith. As the capital of one of India's most powerful empires, Hampi was a thriving hub of art, trade, and religion. Today, it is a serene retreat that offers visitors a journey back in time, filled with awe-inspiring vistas and rich cultural narratives.",
+        "imageUrl": "https://i.imgur.com/0qfX7oM.jpg",
+        "imageUrl360": "https://i.imgur.com/ev3MnFa.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Virupaksha Temple with Nandi statue",
+            "Stone Chariot at Vittala Temple",
+            "Musical pillars",
+            "Lotus Mahal",
+            "Stepped tanks (Pushkarini)"
+          ],
+          "Outside": [
+            "Tungabhadra River",
+            "Monolithic statues of Ganesha and Narasimha",
+            "Matanga Hill"
+          ]
+        }
+      },
+      {
+        "id": "8",
+        "title": "Khajuraho Temples, Madhya Pradesh",
+        "short_description": "Famous for intricate carvings, depicting life, love, and divinity, showcasing India's exquisite medieval art and culture.",
+        "long_description": "The Khajuraho Temples in Madhya Pradesh are a testament to India's medieval artistry and spirituality. Constructed between 950 and 1050 AD by the Chandela dynasty, this UNESCO World Heritage Site is renowned for its intricately carved sandstone sculptures. The temples are divided into three groups: Western, Eastern, and Southern, each showcasing a unique aspect of life, love, and divinity. The carvings depict gods, goddesses, mythical creatures, and human emotions, ranging from mundane daily activities to profound spiritual expressions. The Kandariya Mahadev Temple, dedicated to Lord Shiva, is the largest and most exquisite example of the complex. Despite their artistic celebration of life and sensuality, the temples also emphasize spiritual transcendence. Nestled amidst a serene rural landscape, the Khajuraho Temples offer an unparalleled blend of history, art, and cultural insight, making them a timeless attraction.",
+        "imageUrl": "https://i.imgur.com/gPHril0.jpg",
+        "imageUrl360": "https://i.imgur.com/8AsNpfR.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Intricately carved sculptures",
+            "Erotic carvings",
+            "Depictions of gods, goddesses, and celestial beings",
+            "Pillars with floral motifs"
+          ],
+          "Outside": [
+            "Open courtyards",
+            "Water tanks (Kunds)",
+            "Smaller shrines"
+          ]
+        }
+      },
+      {
+        "id": "9",
+        "title": "Ajanta Ellora Caves, Maharashtra",
+        "short_description": "A UNESCO World Heritage site in Maharashtra featuring ancient rock-cut caves with exquisite Buddhist, Hindu, and Jain art.",
+        "long_description": "The Ajanta and Ellora Caves, located near Aurangabad in Maharashtra, are among India's most celebrated historical sites. The Ajanta Caves, dating back to the 2nd century BCE, feature 30 rock-cut Buddhist caves adorned with intricate sculptures and paintings depicting the life of Buddha and Jataka tales. The Ellora Caves, a blend of Hindu, Buddhist, and Jain traditions, were carved between the 6th and 10th centuries and are known for the monumental Kailasa Temple, a rock-cut masterpiece dedicated to Lord Shiva. Together, these caves showcase India's artistic and spiritual heritage, making them a must-visit destination for history and art enthusiasts.",
+        "imageUrl": "https://i.imgur.com/1hHYJxZ.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Ajanta murals depicting Jataka tales",
+            "Ellora's Kailasa Temple",
+            "Sculptures of Buddha and Bodhisattvas",
+            "Monastic prayer halls (Chaityas)",
+            "Monks’ living quarters (Viharas)"
+          ],
+          "Outside": [
+            "Rock-hewn facades",
+            "Surrounding lush greenery",
+            "Water streams nearby",
+            "Panoramic views of the caves",
+            "Signage explaining historical significance"
+          ]
+        }
+      },
+      {
+        "id": "10",
+        "title": "Konark Sun Temple, Odisha",
+        "short_description": "A UNESCO World Heritage Site, the Konark Sun Temple is a 13th-century architectural marvel shaped like a giant chariot.",
+        "long_description": "The Konark Sun Temple, located in Odisha, is a monumental representation of a chariot dedicated to the Sun God, Surya. Built in the 13th century by King Narasimhadeva I, this temple is known for its intricate carvings depicting various aspects of life, mythological stories, and celestial bodies. The temple's architecture, featuring 24 intricately carved wheels and seven galloping horses, symbolizes the passage of time. A UNESCO World Heritage Site, the Konark Sun Temple also houses erotic sculptures similar to those at Khajuraho. Though partly in ruins, its grandeur continues to inspire awe among visitors, making it a key destination for art and history lovers.",
+        "imageUrl": "https://i.imgur.com/Y2EJshZ.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Main sanctum with carvings",
+            "Erotic sculptures",
+            "Statues of musicians and dancers",
+            "Stone carvings of celestial beings",
+            "Central axis aligned with the Sun"
+          ],
+          "Outside": [
+            "24 carved wheels of the chariot",
+            "Seven stone horses",
+            "Open courtyards",
+            "Adjacent sun-dial structures",
+            "Nearby Chandrabhaga beach"
+          ]
+        }
+      },
+      {
+        "id": "11",
+        "title": "Red Fort, Delhi",
+        "short_description": "An iconic Mughal-era fort in Delhi, known for its massive red sandstone walls and historic significance.",
+        "long_description": "The Red Fort, or Lal Qila, located in the heart of Delhi, is a UNESCO World Heritage Site and a symbol of India's rich history and independence. Built in the 17th century by Emperor Shah Jahan, this sprawling fort is an architectural masterpiece of red sandstone with a blend of Persian, Mughal, and Indian styles. Inside the fort, visitors can explore grand structures such as the Diwan-i-Aam (Hall of Public Audience), Diwan-i-Khas (Hall of Private Audience), and the royal chambers. The fort also houses museums that display artifacts from the Mughal era. Every year, the Prime Minister of India hoists the national flag here on Independence Day, making it a site of immense historical and cultural importance.",
+        "imageUrl": "https://i.imgur.com/MhkyEbh.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Diwan-i-Aam",
+            "Diwan-i-Khas",
+            "Moti Masjid",
+            "Royal chambers",
+            "Freedom Struggle Museum"
+          ],
+          "Outside": [
+            "Massive red sandstone walls",
+            "Lahori Gate",
+            "Chhatta Chowk (covered bazaar)",
+            "Open gardens",
+            "Night light and sound show"
+          ]
+        }
+      },
+      {
+        "id": "12",
+        "title": "Sanchi Stupa, Madhya Pradesh",
+        "short_description": "A UNESCO World Heritage Site, Sanchi Stupa is a serene Buddhist complex with intricately carved gateways.",
+        "long_description": "The Sanchi Stupa, located in Madhya Pradesh, is one of the oldest stone structures in India and a significant site for Buddhist heritage. Built by Emperor Ashoka in the 3rd century BCE, the stupa enshrines sacred relics of Buddha. The four elaborately carved gateways (Toranas) depict scenes from Buddha’s life and Jataka tales. The Great Stupa, with its hemispherical dome, is surrounded by a paved pathway for circumambulation (Pradakshina). A UNESCO World Heritage Site, Sanchi offers visitors a tranquil and spiritual experience amidst its well-preserved stupas, monasteries, and temples.",
+        "imageUrl": "https://i.imgur.com/jFNWQtx.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Buddha relics",
+            "Hemispherical dome",
+            "Carvings depicting Jataka tales",
+            "Prayer pathways",
+            "Ashokan inscriptions"
+          ],
+          "Outside": [
+            "Four carved Toranas",
+            "Surrounding smaller stupas",
+            "Stone railings",
+            "Museum nearby",
+            "Lush greenery"
+          ]
+        }
+      },
+      {
+        "id": "13",
+        "title": "Nalanda Mahavihara, Bihar",
+        "short_description": "A UNESCO World Heritage Site, Nalanda Mahavihara is an ancient center of learning and a masterpiece of early Indian architecture.",
+        "long_description": "Nalanda Mahavihara, located in Bihar, was a renowned ancient university and a major center for Buddhist learning between the 5th and 12th centuries CE. This UNESCO World Heritage Site features well-preserved monasteries, temples, and lecture halls arranged in a systematic manner. The site’s archaeological remains include stupas, votive shrines, and intricate sculptures of Buddha and Bodhisattvas. Nalanda was visited by scholars from across the world, including Xuanzang and Yijing. Today, it stands as a symbol of India’s scholarly and cultural achievements, attracting visitors interested in history, architecture, and spiritual heritage.",
+        "imageUrl": "https://i.imgur.com/68ALzkQ.jpg",
+        "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+        "objects": {
+          "Inside": [
+            "Ancient lecture halls",
+            "Statues of Buddha",
+            "Votive stupas",
+            "Archaeological relics",
+            "Decorative stone carvings"
+          ],
+          "Outside": [
+            "Temple ruins",
+            "Monastery complexes",
+            "Stone pathways",
+            "Nearby Nalanda Museum",
+            "Scenic rural landscape"
+          ]
+        }
+      }
+    ]
+  }

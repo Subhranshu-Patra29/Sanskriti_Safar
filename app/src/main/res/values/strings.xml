@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Sanskriti Safar</string>
+
+    <!--    Intro Page  -->
+    <string name="welcome_text">Welcome to\n\t\t\t\tसंस्कृति Safar</string>
+    <string name="app_description">Journey Through India’s Legacy and Unlock the Wonders of India\'s Heritage</string>
+    <string name="bottom_desc">Bottom White Picture Intro Page</string>
+    <string name="get_started_btn">Get Started</string>
+    <string name="intro_pic_desc">Picture showing Indian Travel and Tourism</string>
+
+    <!--    Login Page  -->
+    <string name="email_text">Email</string>
+    <string name="enter_email_text">johnDoe@gmail.com</string>
+    <string name="pass_text">Password</string>
+    <string name="enter_pass_text">Enter Your Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_text">New User? Register Now!</string>
+    <string name="social_login_text">Login Using</string>
+    <string name="fb_logo">Facebook Logo for social login</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="google_logo">Google Logo for social login</string>
+    <string name="google_text">Google</string>
+
+    <!--    Register Page   -->
+    <string name="name_text">Name</string>
+    <string name="enter_name_text">John Doe</string>
+    <string name="phone_text">Phone No.</string>
+    <string name="enter_phone_no">1234567890</string>
+    <string name="register_btn_text">Sign Up</string>
+    <string name="login_text">Existing User? Login Now</string>
+
+    <!--    Language Select Page-->
+    <string name="lang_select_text">Please Choose Your Preferred Langauge!</string>
+    <string name="acknowledgement_text">We will use your information to personalize and enhance your experience. By clicking "Get Started" you agree to our Terms of Use and acknowledge that you have read our Privacy Policy. Sanskriti Safar will collect your location data and information about other apps installed to offer personalized suggestions.</string>
+    <string name="eng">English</string>
+    <string name="hn">हिन्दी</string>
+    <string name="bn">বাংলা</string>
+    <string name="or">ଓଡ଼ିଆ</string>
+    <string name="kn">ಕನ್ನಡ</string>
+    <string name="ta">தமிழ்</string>
+    <string name="ml">മലയാളം</string>
+    <string name="te">తెలుగు</string>
+
+<!--    Home Page-->
+    <string name="exploreBtn">Explore</string>
+    <string name="exploreLogo">Explore Logo</string>
+    <string name="profileBtn">Profile</string>
+    <string name="profileLogo">Profile Logo</string>
+    <string name="osmdroid_cache_path">osmdroid/tiles</string>
+    <string name="gotoCurrentLocation">Go to Current Location</string>
+    <string name="searchLoc">Search by specific location</string>
+    <string name="microphone">Microphone Input</string>
+    <string name="camera">Camera Scan</string>
+    <string name="trending">Most Searched Places</string>
+    <string name="recommendation_title">Top Recommendation for Today</string>
+    <string name="recommendation_image">Image of recommended place</string>
+    <string name="recommendation_name">Victoria Memorial</string>
+    <string name="recommendation_desc">The Victoria Memorial in Kolkata is a grand marble structure commemorating Queen Victoria, blending British and Mughal architectural styles.</string>
+</resources>

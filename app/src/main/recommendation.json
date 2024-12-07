@@ -1,0 +1,114 @@
+{
+  "recommendations": [
+    {
+      "id": "1",
+      "title": "Taj Mahal, Agra",
+      "short_description": "A stunning white marble mausoleum in Agra, symbolizing eternal love and Mughal architectural splendor, built by Shah Jahan.",
+      "long_description": "The Taj Mahal, located in Agra, Uttar Pradesh, is a masterpiece of Mughal architecture and one of the Seven Wonders of the World. Constructed in the 17th century by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, the Taj Mahal is a symbol of eternal love and devotion. This UNESCO World Heritage Site is built entirely of white marble, adorned with intricate carvings, precious gemstones, and stunning calligraphy. The mausoleum's symmetrical gardens, reflecting pools, and towering minarets enhance its breathtaking beauty. Visitors are captivated by the changing hues of the marble under different light conditions, particularly during sunrise and sunset. The Taj Mahal's story, coupled with its architectural brilliance, makes it a must-visit destination for anyone seeking to explore India\u2019s rich heritage and timeless romance.",
+      "imageUrl": "https://i.imgur.com/uPcFDtU.jpg",
+      "imageUrl360": "https://i.imgur.com/PyT9xwK.jpg?raw=true",
+      "objects": {
+        "Inside": [
+          "Cenotaphs of Mumtaz Mahal and Shah Jahan",
+          "Intricate marble screens",
+          "Pietra dura inlay work",
+          "Calligraphic inscriptions from the Quran",
+          "Central dome with acoustic properties"
+        ],
+        "Outside": [
+          "Charbagh Gardens",
+          "Reflecting pool",
+          "Mosque on the west",
+          "Guest house on the east",
+          "Yamuna River"
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "Qutub Minar, Delhi",
+      "short_description": "A towering 12th-century sandstone minaret in Delhi, showcasing Indo-Islamic artistry and inscribed with intricate Quranic verses.",
+      "long_description": "The Qutub Minar in Delhi stands as a remarkable example of Indo-Islamic architecture, soaring to a height of 73 meters. This iconic sandstone minaret was commissioned in 1193 by Qutb-ud-din Aibak, marking the beginning of Muslim rule in India. Its five tapering stories are adorned with intricate carvings and Quranic inscriptions, reflecting the artistic and spiritual depth of its creators. The surrounding Qutub Complex features the Quwwat-ul-Islam Mosque, the Iron Pillar, and Alai Minar, each with its own historical significance. The intricate detailing on the walls and the harmonious blend of Persian, Islamic, and Indian craftsmanship make the Qutub Minar a UNESCO World Heritage Site. Its historical importance and aesthetic grandeur attract visitors worldwide, offering a glimpse into the cultural evolution of India during the 12th century.",
+      "imageUrl": "https://i.imgur.com/aWuc1fG.jpg",
+      "imageUrl360": "https://i.imgur.com/SJRrkJe.jpg?raw=true",
+      "objects": {
+        "Inside": [
+          "Carvings of Quranic verses",
+          "Intricate balconies",
+          "Quwwat-ul-Islam Mosque",
+          "Iron Pillar of Delhi"
+        ],
+        "Outside": [
+          "Tomb of Iltutmish",
+          "Alai Minar"
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "Victoria Memorial, Kolkata",
+      "short_description": "The Victoria Memorial in Kolkata is a grand marble structure commemorating Queen Victoria, blending British and Mughal architectural styles.",
+      "long_description": "The Victoria Memorial in Kolkata is an architectural marvel built to honor Queen Victoria\u2019s legacy. This majestic white marble structure, inaugurated in 1921, seamlessly blends Mughal and British architectural styles. Surrounded by sprawling gardens and water bodies, the monument houses a museum showcasing historical artifacts, paintings, and manuscripts from the colonial era. The central dome is crowned by the Angel of Victory, a symbolic representation of triumph. Inside, galleries feature exhibits on India's history, the life of Queen Victoria, and the British Empire\u2019s impact on the Indian subcontinent. The exterior is equally captivating, with intricately carved statues and a tranquil environment. Illuminated in the evening, the Victoria Memorial transforms into a breathtaking spectacle, making it a favorite destination for history enthusiasts and casual visitors alike.",
+      "imageUrl": "https://i.imgur.com/Qc0aKY8.jpg",
+      "imageUrl360": "https://i.imgur.com/I9UzArf.jpg?raw=true",
+      "objects": {
+        "Inside": [
+          "Museum Galleries",
+          "Oil paintings and lithographs",
+          "Marble statue of Queen Victoria",
+          "Royal Gallery with historical paintings",
+          "Stained glass windows"
+        ],
+        "Outside": [
+          "Angel of Victory statue",
+          "Gardens with fountains and pathways",
+          "Reflecting pools",
+          "Statues of British figures"
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "title": "Hampi, Karnataka",
+      "short_description": "Ancient Vijayanagara Empire ruins in Karnataka, featuring breathtaking temples, stone chariots, and rich historical significance.",
+      "long_description": "Hampi, a UNESCO World Heritage Site in Karnataka, is an open-air museum of the ancient Vijayanagara Empire. This historical site boasts over 1,600 ruins, including temples, palaces, and market streets, spread across a surreal landscape of giant granite boulders and lush green fields. Key attractions include the iconic Virupaksha Temple, dedicated to Lord Shiva, and the Stone Chariot at the Vittala Temple complex, a masterpiece of Dravidian architecture. Hampi's ancient bazaars, monolithic sculptures, and royal enclosures speak of a bygone era of opulence and cultural zenith. As the capital of one of India's most powerful empires, Hampi was a thriving hub of art, trade, and religion. Today, it is a serene retreat that offers visitors a journey back in time, filled with awe-inspiring vistas and rich cultural narratives.",
+      "imageUrl": "https://i.imgur.com/0qfX7oM.jpg",
+      "imageUrl360": "https://i.imgur.com/ev3MnFa.jpg?raw=true",
+      "objects": {
+        "Inside": [
+          "Virupaksha Temple with Nandi statue",
+          "Stone Chariot at Vittala Temple",
+          "Musical pillars",
+          "Lotus Mahal",
+          "Stepped tanks (Pushkarini)"
+        ],
+        "Outside": [
+          "Tungabhadra River",
+          "Monolithic statues of Ganesha and Narasimha",
+          "Matanga Hill"
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "title": "Khajuraho Temples, Madhya Pradesh",
+      "short_description": "Famous for intricate carvings, depicting life, love, and divinity, showcasing India's exquisite medieval art and culture.",
+      "long_description": "The Khajuraho Temples in Madhya Pradesh are a testament to India's medieval artistry and spirituality. Constructed between 950 and 1050 AD by the Chandela dynasty, this UNESCO World Heritage Site is renowned for its intricately carved sandstone sculptures. The temples are divided into three groups: Western, Eastern, and Southern, each showcasing a unique aspect of life, love, and divinity. The carvings depict gods, goddesses, mythical creatures, and human emotions, ranging from mundane daily activities to profound spiritual expressions. The Kandariya Mahadev Temple, dedicated to Lord Shiva, is the largest and most exquisite example of the complex. Despite their artistic celebration of life and sensuality, the temples also emphasize spiritual transcendence. Nestled amidst a serene rural landscape, the Khajuraho Temples offer an unparalleled blend of history, art, and cultural insight, making them a timeless attraction.",
+      "imageUrl": "https://i.imgur.com/gPHril0.jpg",
+      "imageUrl360": "https://i.imgur.com/8AsNpfR.jpg?raw=true",
+      "objects": {
+        "Inside": [
+          "Intricately carved sculptures",
+          "Erotic carvings",
+          "Depictions of gods, goddesses, and celestial beings",
+          "Pillars with floral motifs"
+        ],
+        "Outside": [
+          "Open courtyards",
+          "Water tanks (Kunds)",
+          "Smaller shrines"
+        ]
+      }
+    }
+  ]
+}

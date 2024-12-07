@@ -1,0 +1,54 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background_bottom"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Header for Inside Section -->
+        <TextView
+            android:id="@+id/header_inside"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="Inside Objects"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:background="#D3D3D3"
+            android:textColor="@color/orange" />
+
+        <!-- RecyclerView for Inside Objects -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/inside_objects_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:clipToPadding="false" />
+
+        <!-- Header for Outside Section -->
+        <TextView
+            android:id="@+id/header_outside"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:text="Outside Objects"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:background="#D3D3D3"
+            android:textColor="@color/orange"  />
+
+        <!-- RecyclerView for Outside Objects -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/outside_objects_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:clipToPadding="false" />
+
+    </LinearLayout>
+</ScrollView>
