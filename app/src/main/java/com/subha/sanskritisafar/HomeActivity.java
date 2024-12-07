@@ -205,7 +205,6 @@ public class HomeActivity extends AppCompatActivity {
 
         trendingButton.setOnClickListener(v -> {
 //            Toast.makeText(HomeActivity.this, "Trending Button Clicked", Toast.LENGTH_SHORT).show();
-            // TODO: Implement functionality to open new activity with trending items
             Intent intent = new Intent(HomeActivity.this, TrendingActivity.class);
             intent.putExtra("SELECTED_LANGUAGE", selectedLanguage);
             startActivity(intent);
